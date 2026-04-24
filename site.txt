@@ -1,0 +1,17 @@
+google.com
+github.com
+microsoft.com
+openai.com
+cloudflare.com
+amazon.com
+stackoverflow.com
+wikipedia.org
+python.org
+reddit.com
+netflix.com
+yahoo.com
+linkedin.com
+apple.com
+bbc.com
+fake123testdomain.com
+invalid-site-xyz.com
